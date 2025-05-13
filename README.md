@@ -3,7 +3,6 @@
 Welcome to the **Ultimate Basics & Fundamentals Repository**!  
 Here you'll find a treasure chest of core concepts, beginner-friendly explanations, and must-know fundamentals across various topics! 💡🔥
 
----
 
 ## 📌 What's Inside?
 
@@ -18,10 +17,7 @@ Here you'll find a treasure chest of core concepts, beginner-friendly explanatio
 - ✅ **DSA Basics (Stacks, Queues, LinkedList)** 🧱  
 - ✅ **Syntax & Examples in C, C++, Python, Java** 💻  
 
----
 
-
----
 
 ## ✨ Why This Repo?
 
@@ -30,7 +26,7 @@ Here you'll find a treasure chest of core concepts, beginner-friendly explanatio
 - 🧠 **Boosts Your Core Understanding**  
 - 💼 **Helps in Interviews & Exams**  
 
----
+
 
 ## 🌟 Who Can Use This?
 
@@ -38,7 +34,7 @@ Here you'll find a treasure chest of core concepts, beginner-friendly explanatio
 |:-----------:|:-------------:|:--------------:|:----------------:|
 | ✅ Yes       | ✅ Yes         | ✅ Yes          | ✅ Yes            |
 
----
+
 
 
 
