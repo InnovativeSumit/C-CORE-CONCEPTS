@@ -18,13 +18,4 @@ Whether you're preparing for **college exams, interviews, or just starting your 
 - To serve as a **revision guide** and a **reference resource** for quick learning.
 
 
-# 🙏 Acknowledgments
-
-Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
-
-Stay updated with the latest developments, tutorials, and community discussions!
-
- [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339)
- 
-
 
