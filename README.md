@@ -15,7 +15,22 @@ Whether you're preparing for **college exams, interviews, or just starting your 
 - To provide **daily fundamental C programming concepts** in a simplified and structured manner.
 - To help learners strengthen their programming base with **hands-on code and real examples**.
 - To maintain a **clean, beginner-friendly codebase** that anyone can learn from.
-- To serve as a **revision guide** and a **reference resource** for quick learning.
+- To serve as a **revision guide** and a **reference resource** for quick learning
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+## 🌟 Let's Connect
+
+
+
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
+
+
+
+ [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
+.
 
 
 
